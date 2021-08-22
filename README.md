@@ -1,5 +1,7 @@
 # Pivot Points Calculation With Python
 
+I used yfinance to pull stock data. 
+
 # Floor
 > The floor pivot points are the most basic and popular type of pivots. The pivot point is interpreted as the primary support/resistance level - the point at which the main trend is determined. First-third level resistance and support points serve as additional indicators of possible trend reversal or continuation.
 ####
