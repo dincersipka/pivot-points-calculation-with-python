@@ -53,4 +53,4 @@
     S3 = PP - ((High - Low) x 1.000)
     
     
-[SOURCE](https://www.babypips.com/tools/pivot-point-calculator)
+[FORMULA SOURCE](https://www.babypips.com/tools/pivot-point-calculator)
