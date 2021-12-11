@@ -55,4 +55,4 @@ I used yfinance to pull stock data.
     S3 = PP - ((High - Low) x 1.000)
     
     
-[FORMULA SOURCE](https://www.babypips.com/tools/pivot-point-calculator)
+[SOURCE](https://www.babypips.com/tools/pivot-point-calculator)
